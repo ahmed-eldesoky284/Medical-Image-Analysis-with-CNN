@@ -43,7 +43,8 @@ git clone ttps://github.com/ahmed-eldesoky284/Medical-Image-Analysis-with-CNN.gi
 ## File Structure
   `Medical Image Analysis with CNN.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, model building,
   and evaluation.
-  `(chest_xray/test.csv`: CSV file containing the bank marketing dataset.
+  
+  `chest_xray/test.csv`: CSV file containing the bank marketing dataset.
   README.md: This file providing instructions and information about the project.
 
 # License
